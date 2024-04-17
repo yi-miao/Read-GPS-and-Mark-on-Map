@@ -1,10 +1,3 @@
-# 1. Raspberry Pi 4B
-# 2. NEO-6M GPS Module
-# 3. FTDI USB Serial Adapter Module
-# 4. PiOS: Bullseye
-# 5. Python packages/modules: serial, folium, webbrowser
-# 6. Python script: gpsmap.py
-
 from serial import Serial           
 import folium
 import webbrowser
